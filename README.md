@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This was my first time using Java so the biggest challenge for me was understanding the syntax. I am very interested to learn more about Java and Android App development.
 
 ## License
 
